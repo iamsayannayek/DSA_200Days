@@ -5,6 +5,8 @@
 ## 📅 Week 1: DSA Fundamentals (June 15 - June 21)
 
 ### ✅ Topics to Cover:
+- [x] Arrays
+- [x] Strings
 - [ ] Math Basics
 - [ ] Recursion Basics
 
