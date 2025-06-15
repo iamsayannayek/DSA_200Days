@@ -1,7 +1,5 @@
 # 🧠 200 Days Challenge For DSA
 
-# 🧠 100 Days DSA Challenge (For Working Professionals - 3 to 5 Hrs/day)
-
 ## 📅 Week 1: DSA Fundamentals (June 15 - June 21)
 
 ### ✅ Topics to Cover:
