@@ -3,7 +3,7 @@
 ## 📅 Week 1: DSA Fundamentals
 
 ### ✅ Topics to Cover:
-- [ ] Array
-- [ ] Strings
+- [x] Array
+- [x] Strings
 - [ ] Mathematics
 - [ ] Recursion
