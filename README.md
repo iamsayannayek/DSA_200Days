@@ -23,7 +23,7 @@
 
 #### 📅 Day 2 (June 16):
 - [x] Check if a Number is a Palindrome
-- [ ] Check if a Number is an Armstrong Number
+- [x] Check if a Number is an Armstrong Number
 - [ ] Count the Total Occurrences of the Digit '1' in All Positive Integers Less than or Equal to a Given Integer n
 
 #### 📅 Day 3 (June 17):
