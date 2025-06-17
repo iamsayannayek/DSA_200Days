@@ -17,12 +17,12 @@
 ### 📘 Chapter 1: Math Basics
 
 #### 📅 Day 1 (June 15):
-- [ ] Perform Basic Operations (Addition, Subtraction, Multiplication, Division) using Two Numbers
-- [ ] Find the Sum of Digits of a Number
-- [ ] Reverse a Given Number
+- [x] Perform Basic Operations (Addition, Subtraction, Multiplication, Division) using Two Numbers
+- [x] Find the Sum of Digits of a Number
+- [x] Reverse a Given Number
 
 #### 📅 Day 2 (June 16):
-- [ ] Check if a Number is a Palindrome
+- [x] Check if a Number is a Palindrome
 - [ ] Check if a Number is an Armstrong Number
 - [ ] Count the Total Occurrences of the Digit '1' in All Positive Integers Less than or Equal to a Given Integer n
 
