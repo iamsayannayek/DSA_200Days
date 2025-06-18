@@ -29,7 +29,7 @@
 #### 📅 Day 3 (June 17):
 - [x] Generate Fibonacci Numbers up to a Given Limit
 - [x] Calculate the Factorial of a Number
-- [ ] Find the Number of Trailing Zeroes in the Factorial of a Given Number n
+- [x] Find the Number of Trailing Zeroes in the Factorial of a Given Number n
 
 #### 📅 Day 4 (June 18):
 - [ ] Calculate the LCM and GCD of Two Numbers
