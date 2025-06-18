@@ -32,7 +32,7 @@
 - [x] Find the Number of Trailing Zeroes in the Factorial of a Given Number n
 
 #### 📅 Day 4 (June 18):
-- [ ] Calculate the LCM and GCD of Two Numbers
+- [x] Calculate the LCM and GCD of Two Numbers
 - [ ] Check if a Number is Prime without using the Sieve of Eratosthenes
 - [ ] Check if Two Numbers are Co-Prime
 
