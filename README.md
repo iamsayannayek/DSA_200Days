@@ -27,8 +27,8 @@
 - [ ] Count the Total Occurrences of the Digit '1' in All Positive Integers Less than or Equal to a Given Integer n
 
 #### 📅 Day 3 (June 17):
-- [ ] Generate Fibonacci Numbers up to a Given Limit
-- [ ] Calculate the Factorial of a Number
+- [x] Generate Fibonacci Numbers up to a Given Limit
+- [x] Calculate the Factorial of a Number
 - [ ] Find the Number of Trailing Zeroes in the Factorial of a Given Number n
 
 #### 📅 Day 4 (June 18):
