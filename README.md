@@ -34,7 +34,7 @@
 #### 📅 Day 4 (June 18):
 - [x] Calculate the LCM and GCD of Two Numbers
 - [x] Check if a Number is Prime without using the Sieve of Eratosthenes
-- [ ] Check if Two Numbers are Co-Prime
+- [x] Check if Two Numbers are Co-Prime
 
 #### 📅 Day 5 (June 19):
 - [ ] Find All Divisors of a Given Number
