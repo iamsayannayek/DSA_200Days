@@ -37,9 +37,9 @@
 - [x] Check if Two Numbers are Co-Prime
 
 #### 📅 Day 5 (June 19):
-- [ ] Find All Divisors of a Given Number
-- [ ] Perform Modulo Operations
-- [ ] Check Divisibility Rules for Numbers from 1 to 20
+- [x] Find All Divisors of a Given Number
+- [x] Perform Modulo Operations
+- [x] Check Divisibility Rules for Numbers from 1 to 20
 
 ---
 
