@@ -5,7 +5,7 @@
 ### ✅ Topics to Cover:
 - [x] Arrays
 - [x] Strings
-- [ ] Math Basics
+- [x] Math Basics
 - [ ] Recursion Basics
 
 ---
