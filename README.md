@@ -46,8 +46,8 @@
 ### 📘 Chapter 2: Recursion Basics
 
 #### 📅 Day 6 (June 20):
-- [ ] Introduction to Recursion  
-- [ ] Getting a hang of Recursion  
+- [x] Introduction to Recursion  
+- [x] Getting a hang of Recursion  
 - [ ] Some simple problems using Recursion  
 - [ ] Fast Exponentiation  
 - [ ] Power of Three  
