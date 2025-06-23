@@ -83,11 +83,11 @@
 #### 📅 Day 9 (June 24):
 - [x] Convert a Decimal Number to Binary using Recursion
 - [x] Check if a Number is a Prime Number using Recursion
-- [ ] Print Even or Odd Numbers in a Given Range using Recursion
+- [x] Print Even or Odd Numbers in a Given Range using Recursion
 - [ ] Multiply Two Matrices using Recursion
-- [ ] Check if a Given String is a Palindrome using Recursion
+- [x] Check if a Given String is a Palindrome using Recursion
 - [ ] Copy One String to Another using Recursion
-- [ ] Check if an Array is Sorted using Recursion
+- [x] Check if an Array is Sorted using Recursion
 
 ---
 
