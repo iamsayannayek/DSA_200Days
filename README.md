@@ -75,7 +75,7 @@
 - [x] Find the Sum of Digits of a Number using Recursion
 - [x] Find the GCD of Two Numbers using Recursion
 - [x] Find the Largest Element of an Array using Recursion
-- [ ] Reverse a String using Recursion
+- [x] Reverse a String using Recursion
 - [ ] Find the Factorial of a Number using Recursion
 
 ---
