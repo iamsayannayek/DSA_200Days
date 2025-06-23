@@ -56,11 +56,42 @@
 - [ ] Recursion: Time & Space Complexity Analysis - 1  
 - [ ] Recursion: Time & Space Complexity Analysis - 2  
 - [ ] Time Complexity Analysis using Recurrence Relations  
-- [ ] Calculate the Sum of Numbers from 1 to N using Recursion  
+- [x] Calculate the Sum of Numbers from 1 to N using Recursion  
+
+---
+## 🔁 Weekly Revision - Sunday (June 22)
+- [x] Revise all Math Basics problems
+- [x] Revise all Recursion Basics problems
+- [x] Solve any missed or stuck problems
+- [x] Reflect and note key patterns/recurrences
 
 ---
 
-## 🔁 Weekly Revision - Sunday (June 22)
+#### 📅 Day 8 (June 23):
+- [x] Calculate the Sum of Numbers from 1 to N using Recursion 
+- [x] Print the Fibonacci Series up to N Terms using Recursion 
+- [x] Print the Elements of an Array using Recursion  
+- [x] Count the Digits of a Given Number using Recursion
+- [ ] Find the Sum of Digits of a Number using Recursion
+- [ ] Find the GCD of Two Numbers using Recursion
+- [ ] Find the Largest Element of an Array using Recursion
+- [ ] Reverse a String using Recursion
+- [ ] Find the Factorial of a Number using Recursion
+
+---
+
+#### 📅 Day 9 (June 24):
+- [x] Convert a Decimal Number to Binary using Recursion
+- [ ] Check if a Number is a Prime Number using Recursion
+- [ ] Print Even or Odd Numbers in a Given Range using Recursion
+- [ ] Multiply Two Matrices using Recursion
+- [ ] Check if a Given String is a Palindrome using Recursion
+- [ ] Copy One String to Another using Recursion
+- [ ] Check if an Array is Sorted using Recursion
+
+---
+
+## 🔁 Weekly Revision - Sunday (June 30)
 - [x] Revise all Math Basics problems
 - [ ] Revise all Recursion Basics problems
 - [ ] Solve any missed or stuck problems
