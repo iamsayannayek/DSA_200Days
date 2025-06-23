@@ -61,7 +61,7 @@
 ---
 
 ## 🔁 Weekly Revision - Sunday (June 22)
-- [ ] Revise all Math Basics problems
+- [x] Revise all Math Basics problems
 - [ ] Revise all Recursion Basics problems
 - [ ] Solve any missed or stuck problems
 - [ ] Reflect and note key patterns/recurrences
