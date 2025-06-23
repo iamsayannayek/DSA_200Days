@@ -72,7 +72,7 @@
 - [x] Print the Fibonacci Series up to N Terms using Recursion 
 - [x] Print the Elements of an Array using Recursion  
 - [x] Count the Digits of a Given Number using Recursion
-- [ ] Find the Sum of Digits of a Number using Recursion
+- [x] Find the Sum of Digits of a Number using Recursion
 - [ ] Find the GCD of Two Numbers using Recursion
 - [ ] Find the Largest Element of an Array using Recursion
 - [ ] Reverse a String using Recursion
