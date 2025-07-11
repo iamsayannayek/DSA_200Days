@@ -6,7 +6,7 @@
 - [x] Arrays
 - [x] Strings
 - [x] Math Basics
-- [ ] Recursion Basics
+- [x] Recursion Basics
 
 ---
 
@@ -48,14 +48,14 @@
 #### 📅 Day 6 (June 20):
 - [x] Introduction to Recursion  
 - [x] Getting a hang of Recursion  
-- [ ] Some simple problems using Recursion  
-- [ ] Fast Exponentiation  
+- [x] Some simple problems using Recursion  
+- [x] Fast Exponentiation  
 - [ ] Power of Three  
 
 #### 📅 Day 7 (June 21):
 - [ ] Recursion: Time & Space Complexity Analysis - 1  
 - [ ] Recursion: Time & Space Complexity Analysis - 2  
-- [ ] Time Complexity Analysis using Recurrence Relations  
+- [x] Time Complexity Analysis using Recurrence Relations  
 - [x] Calculate the Sum of Numbers from 1 to N using Recursion  
 
 ---
